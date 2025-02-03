@@ -4,14 +4,9 @@ Add a project state badge
 See <https://github.com/BCDevExchange/Our-Project-Docs/blob/master/discussion/projectstates.md> 
 If you have bcgovr installed and you use RStudio, click the 'Insert BCDevex Badge' Addin.
 -->
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/e55ee554-8469-432d-8e3d-dba1b0e50194" width="50%" alt="WX Station Alerts Dashboard">
-</div>
-
 High Humidex Tracker
 ============================
-A web application built with R Shiny for monitoring and analyzing data from BC Wildfire Service weather stations.
+A web application built with R Shiny to find high humidex events using data from BC Wildfire Service weather stations.
 
 
 ## Requirements
